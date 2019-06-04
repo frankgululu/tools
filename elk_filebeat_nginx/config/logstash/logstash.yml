@@ -1,0 +1,7 @@
+path.config:
+config.test_and_exit: false
+config.reload.automatic: true
+config.reload.interval: 3s
+queue.type: persisted
+queue.checkpoint.writes: 1
+log.level: info
